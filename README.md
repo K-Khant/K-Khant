@@ -1,6 +1,6 @@
 # Hi, I'm Win Khant Ko Ko
 
-2nd-year B.Sc. Software Engineering student at CAMT, Chiang Mai University.
+Software Engineering student at CAMT, Chiang Mai University.
 Currently focused on backend development with Java, learning by building real coursework projects from the ground up.
 
 <!-- Portfolio: coming soon -->
